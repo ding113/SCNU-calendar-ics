@@ -1,5 +1,3 @@
-Certainly, I'll add the DESCRIPTION field to the relevant events in the iCalendar file based on the information provided in the article. Here's the updated iCalendar file with added descriptions:
-
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN

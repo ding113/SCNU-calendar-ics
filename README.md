@@ -16,6 +16,6 @@
 
 你可以通过以下链接一键订阅校历：
 
-[点击这里订阅日历](webcal://https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/ding113/scnu-calendar-ics/main/scnu-calendar.ics)
+[点击这里订阅日历](https://dwz.ygxz.xyz/scnu-ics)
 
 该链接适用于Apple Calendar、Google Calendar等大多数主流日历应用。

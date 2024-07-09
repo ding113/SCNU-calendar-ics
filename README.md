@@ -11,3 +11,11 @@
 - 包含2024-2025学年所有重要的校历事件
 - 包括假期安排、考试时间、报到注册时间、上课时间等
 - 兼容苹果日历、谷歌日历、Outlook等多种日历应用
+
+## 一键订阅
+
+你可以通过以下链接一键订阅校历：
+
+[点击这里订阅日历](webcal://https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/ding113/scnu-calendar-ics/main/scnu-calendar.ics)
+
+该链接适用于Apple Calendar、Google Calendar等大多数主流日历应用。

@@ -14,8 +14,12 @@
 
 ## 一键订阅
 
-你可以通过以下链接一键订阅校历：
+你可以通过在文件链接前更改协议头为 `webcal://` 一键订阅校历，如：
 
-[点击这里订阅日历](https://dwz.ygxz.xyz/scnu-ics)
+`webcal://raw.githubusercontent.com/ding113/scnu-calendar-ics/main/scnu-calendar.ics`
+
+也可以添加 Github 代理便于国内环境使用，比如：
+
+`webcal://gh-proxy.ygxz.in/https%3A//raw.githubusercontent.com/ding113/scnu-calendar-ics/main/scnu-calendar.ics`
 
 该链接适用于Apple Calendar、Google Calendar等大多数主流日历应用。
